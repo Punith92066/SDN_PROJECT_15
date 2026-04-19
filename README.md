@@ -233,11 +233,3 @@ It highlights how SDN can be used for:
 * OpenFlow Specification
 
 ---
-
-## 👤 Author
-
-* Name: <Yo>
-* Course: <Your Course Name>
-* University: <Your University>
-
----
